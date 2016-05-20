@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entryvalue">
+        <item>@string/Pref_array_metric</item>
+        <item>@string/Pref_array_imperial</item>
+    </string-array>
+
+    <string-array name="entries">
+        <item>@string/Pref_array_metric</item>
+        <item>@string/Pref_array_imperial</item>
+    </string-array>
+
+
+
+
+</resources>
